@@ -1,5 +1,6 @@
-<b>Saudações, Lucas aqui!<\b>
+<b>Saudações, Lucas aqui!</b>
 
+##
 <div>
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luv3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
