@@ -1,4 +1,4 @@
-Saudações, Lucas aqui!
+<b>Saudações, Lucas aqui!<\b>
 
 <div>
   <a href="">
@@ -12,7 +12,7 @@ Saudações, Lucas aqui!
   <img align="center" alt="Luv3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" alt="Luv3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
-  
+
   ##
   
 <div>
