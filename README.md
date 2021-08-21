@@ -1,6 +1,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luv3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv3&layout-compact&langs_count-16&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv3&layout-compact&langs_count-16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Luv3-Js" height="40" width="40" src="https://img.icons8.com/color/2048/000000/power-bi.svg">
@@ -10,7 +10,7 @@
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-<img align="right" alt="Luv3-Js" height="180" width="180" src="https://media3.giphy.com/media/QVmVXXMBVa68zwub4N/giphy.gif?cid=ecf05e47ly5zkhvwykwgip3t3gxikmootfto4yw0pmej3urd&rid=giphy.gif&ct=g">
+<img align="right" alt="Luv3-Js" height="150" width="150" src="https://media3.giphy.com/media/QVmVXXMBVa68zwub4N/giphy.gif?cid=ecf05e47ly5zkhvwykwgip3t3gxikmootfto4yw0pmej3urd&rid=giphy.gif&ct=g">
   
 </div>
 
