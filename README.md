@@ -10,6 +10,8 @@
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" alt="Luv3-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+<img align="right" alt="Luv3-Js" height="180" width="180" src="https://media3.giphy.com/media/QVmVXXMBVa68zwub4N/giphy.gif?cid=ecf05e47ly5zkhvwykwgip3t3gxikmootfto4yw0pmej3urd&rid=giphy.gif&ct=g">
+  
 </div>
 
   ##
