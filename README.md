@@ -1,8 +1,4 @@
-### Olá, eu sou o Lucas Souza 👋
-
-- 👨‍💻 Eu trabalho com Reports/BI
-- 📚 Estudando Data Storytelling
-- 💬 Me pergunte sobre Dashboards do Servicenow e Microsoft Power BI
+Saudações, Lucas aqui!
 
 <div>
   <a href="">
@@ -14,4 +10,11 @@
   <img align="center" alt="Luv3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luv3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Luv3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+</div>
+  
+  ##
+  
+<div>
+  <a href= "https://www.linkedin.com/in/lucasvsouza/" target="_blank"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"><a/>
+
 </div>
