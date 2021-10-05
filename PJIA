@@ -1,0 +1,32 @@
+print("\n")
+print("###########################################")
+print("          DIAGNÓSTICO DE DOENÇAS\n")
+print("Digite o número correspondende a cada sintoma abaixo\n ")
+
+print(" # [ 1 ] Dor de cabeça     #\n "
+      "# [ 2 ] Falta de ar       #\n "
+      "# [ 3 ] Sudorese Intensa  #\n "
+      "# [ 4 ] Tosse seca        #\n "
+      "# [ 5 ] Tontura           #\n "
+      "# [ 6 ] Gaganda inflamada #\n "
+      "# [ 7 ] Dor Muscular      #\n "
+      "# [ 8 ] Febre             #\n "
+      "# [ 9 ] Cansaço           #\n ")
+
+stA = input("Digite o primeiro sintoma: ")
+stB = input("Digite o segundo sintoma: ")
+stC = input("Digite o terceiro sintoma: ")
+
+if (stA == "4" or stA == "8" or stA == "9")\
+        and (stB == "4" or stB == "8" or stB == "9")\
+        and (stC == "4" or stC == "8" or stC == "9"):
+        print("\nVocê possui sintomas de COVID19. Procure um médico!")
+elif (stA == "6" or stA == "7" or stA == "8")\
+        and (stB == "6" or stB == "7" or stB == "8")\
+        and (stC == "6" or stC == "7" or stC == "8"):
+    print("\nVocê possui sintomas de Infecção de Garganta. Procure um médico!")
+elif (stA == "2" or stA == "3" or stA == "5")\
+        and (stB == "2" or stB == "3" or stB == "5")\
+        and (stC == "2" or stC == "3" or stC == "5"):
+    print("\nVocê possui sintomas de Síndrome do Pânico. Procure um médico!")
+else: print('Você possui sintomas de outra doença. Procure um médico!')
